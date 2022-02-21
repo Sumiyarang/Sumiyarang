@@ -1,10 +1,10 @@
 # Yo Halo! 
 
-Perkenalkan nama saya **Aldino Reisnanda**.
+My name is **Aldino Reisnanda** but you can call me **Dino**.
 
-Saya adalah **Mobile Development Bangkit Student 2022** di [Dicoding](https://www.dicoding.com/programs/bangkit).
+I'm a **Mobile Development Bangkit Student 2022** in [Dicoding](https://www.dicoding.com/programs/bangkit).
 
-Saya juga seorang mahasiswa Program Studi Matematika di Universitas Padjadjaran.
+I'm also a studen majoring in Mathematics at Padjadjaran University since 2019.
 
 If you have time go check my profile out >>> [Linkedin](https://www.linkedin.com/in/aldino-reisnanda/).
 

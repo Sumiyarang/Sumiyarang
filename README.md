@@ -2,7 +2,7 @@
 
 My name is **Aldino Reisnanda** but you can call me **Dino**.
 
-I'm a **Mobile Development Bangkit Student 2022** in [Dicoding](https://www.dicoding.com/programs/bangkit).
+I'm a **Mobile Development Bangkit Graduates 2022** in [Dicoding](https://www.dicoding.com/programs/bangkit).
 
 I'm also a student majoring in Mathematics at Padjadjaran University since 2019.
 
